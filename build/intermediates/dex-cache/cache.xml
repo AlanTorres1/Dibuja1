@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alan\Documents\Android\Dibuja1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b35d7e522ef9b4be318871eb8cda569423b4f204">
+        <dex dex="C:\Users\Alan\Documents\Android\Dibuja1\app\build\intermediates\pre-dexed\debug\instant-run_9d7749322f2ff8bfb466821e2eaa9a8968100cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Alan\Documents\Android\Dibuja1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_31bd1eae3703d64c3e091a908ab01e16c95c13e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alan\Documents\Android\Dibuja1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c12ba10df561748c6ffc9044aa12b68cde56becf">
+        <dex dex="C:\Users\Alan\Documents\Android\Dibuja1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_762a4226c1590b1daedc76e894f198f47e32aeeb.jar" />
+    </item>
+
+</items>
